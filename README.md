@@ -5,5 +5,4 @@ I can quickly to read the link and look at source code.
 
 First I am inspired from Department of Computer Science, Dr. Kevin Wayne. His lecture notes are [here](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/).
 
-First we need to define what is Algorithm Design and what they try to help.  
-[see: **Algorithm design** ] (https://en.wikipedia.org/wiki/Algorithm_design)
+First we need to define what is Algorithm Design and what they try to help. [see: **Algorithm design** ] (https://en.wikipedia.org/wiki/Algorithm_design)
