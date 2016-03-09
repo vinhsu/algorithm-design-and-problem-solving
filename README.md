@@ -9,4 +9,4 @@ First we need to define what is Algorithm Design and what they try to help. [see
 
 Now let's start our journey.
 ## 1. stable marriage problem
-[Wikipedia](https://en.wikipedia.org/wiki/Stable_marriage_problem)
+Let's check what [Wikipedia](https://en.wikipedia.org/wiki/Stable_marriage_problem) says.
