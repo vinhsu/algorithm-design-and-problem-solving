@@ -16,7 +16,6 @@ Now let's start our journey.
 ## 1. stable marriage problem  
 + [Wikipedia:  the stable marriage problem is ...](https://en.wikipedia.org/wiki/Stable_marriage_problem)  
 + [Algorithmic Game Theory- Stable Marriage Problem ](https://michaellevet.wordpress.com/2015/05/22/algorithmic-game-theory-stable-marriage-problem/)
-+ [Vedio: Irving's Algorithm and Stable Roommates Problem](https://www.youtube.com/watch?v=5QLxAp8mRKo)
 
 **[code example]**  
 + [link 1](https://rosettacode.org/wiki/Stable_marriage_problem)  
@@ -26,6 +25,9 @@ Now let's start our journey.
 ### 1.a Stable roommates problem
 + [Wikipedia:  particularly in the fields of combinatorics, game theory and algorithms ...](https://en.wikipedia.org/wiki/Stable_roommates_problem)  
 + [Post: same definition as the Stable-Marriage Problem, HOWEVER... ](https://www.student.cs.uwaterloo.ca/~se463/Slides/StableXRoommatesXSlides.pdf)
++ [An Efficient Algorithm for the “Stable
+Roommates” Problem by ROBERT W. IRVING](http://www.dcs.gla.ac.uk/~pat/jchoco/roommates/papers/Comp_sdarticle.pdf)
++ [Vedio: Irving's Algorithm and Stable Roommates Problem](https://www.youtube.com/watch?v=5QLxAp8mRKo) 
 
 **[code example]**  
 + [link 1](https://code.google.com/archive/p/stable-roommates/source/default/source?page=1)  
