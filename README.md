@@ -7,6 +7,10 @@ One day I was inspired from Department of Computer Science, Princeton University
 
 First we need to define what is Algorithm Design and what they try to help. [see: **Algorithm design** ] (https://en.wikipedia.org/wiki/Algorithm_design)
 
+>
+Great books to read.
+Algorithm Design:
+
 Now let's start our journey.
 ## 1. stable marriage problem
 Let's check what [Wikipedia](https://en.wikipedia.org/wiki/Stable_marriage_problem) says.
