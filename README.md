@@ -26,8 +26,8 @@ Now let's start our journey.
 ### 1.a Stable roommates problem
 + [Wikipedia:  particularly in the fields of combinatorics, game theory and algorithms ...](https://en.wikipedia.org/wiki/Stable_roommates_problem)  
 + [Post: same definition as the Stable-Marriage Problem, HOWEVER... ](https://www.student.cs.uwaterloo.ca/~se463/Slides/StableXRoommatesXSlides.pdf)
-+ [An Efficient Algorithm for the â€œStable
-Roommatesâ€� Problem by ROBERT W. IRVING](http://www.dcs.gla.ac.uk/~pat/jchoco/roommates/papers/Comp_sdarticle.pdf)
++ [An Efficient Algorithm for the Stable
+Roommates Problem by ROBERT W. IRVING](http://www.dcs.gla.ac.uk/~pat/jchoco/roommates/papers/Comp_sdarticle.pdf)
 + [Vedio: Irving's Algorithm and Stable Roommates Problem](https://www.youtube.com/watch?v=5QLxAp8mRKo) 
 
 >
