@@ -16,8 +16,9 @@ Now let's start our journey.
 ## 1. stable marriage problem  
 + [Wikipedia:  the stable marriage problem is ...](https://en.wikipedia.org/wiki/Stable_marriage_problem)  
 + [Algorithmic Game Theory- Stable Marriage Problem ](https://michaellevet.wordpress.com/2015/05/22/algorithmic-game-theory-stable-marriage-problem/)
++ [Vedio: Irving's Algorithm and Stable Roommates Problem](https://www.youtube.com/watch?v=5QLxAp8mRKo)
 
-**{code example}**  
+**[code example]**  
 + [link 1](https://rosettacode.org/wiki/Stable_marriage_problem)  
 + [link 2](http://www.geeksforgeeks.org/stable-marriage-problem/)  
 + [link 3](https://www.codechef.com/status/STABLEMP)  
@@ -26,7 +27,7 @@ Now let's start our journey.
 + [Wikipedia:  particularly in the fields of combinatorics, game theory and algorithms ...](https://en.wikipedia.org/wiki/Stable_roommates_problem)  
 + [Post: same definition as the Stable-Marriage Problem, HOWEVER... ](https://www.student.cs.uwaterloo.ca/~se463/Slides/StableXRoommatesXSlides.pdf)
 
-**{code example}**  
+**[code example]**  
 + [link 1](https://code.google.com/archive/p/stable-roommates/source/default/source?page=1)  
 
 
@@ -35,7 +36,6 @@ Now let's start our journey.
 + [Algorithmic Game Theory- College Admissions Problem](https://michaellevet.wordpress.com/2016/01/10/algorithmic-game-theory-college-admissions-problem/)  
 + [How Long Does the Residency Match Algorithm Take To Run?](https://medium.com/@vishnuravi/how-long-does-the-residency-match-algorithm-take-to-run-c38c06cd4d57#.w18yh2jpu)  
 
----
 ##### Reference:  
 + [Matching Algorithms in R and C++: An Introduction to matchingR](https://cran.r-project.org/web/packages/matchingR/vignettes/matchingR-intro.html)  
 
