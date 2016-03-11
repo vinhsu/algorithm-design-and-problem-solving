@@ -30,13 +30,13 @@ Now let's start our journey.
 Roommates Problem by ROBERT W. IRVING](http://www.dcs.gla.ac.uk/~pat/jchoco/roommates/papers/Comp_sdarticle.pdf)
 + [Video: Irving's Algorithm and Stable Roommates Problem](https://www.youtube.com/watch?v=5QLxAp8mRKo) 
 
-**[extension]**
-+ [book: Integration of AI and OR Techniques in Constraint Programming](https://books.google.com/books?id=mYS6BQAAQBAJ&pg=PA16&lpg=PA16&dq=stable+roommate+problem+example&source=bl&ots=B2n6xgexbx&sig=IKkOtx2DWdgtDNXMt6V-1Kg6VRE&hl=en&sa=X&ved=0ahUKEwjGgc7E1LbLAhVPy2MKHS4dDEY4MhDoAQhUMAg#v=onepage&q=stable%20roommate%20problem%20example&f=false
-)
-
 >
 **code example**  
 + [google code](https://code.google.com/archive/p/stable-roommates/source/default/source?page=1)  
+
+Extension:  
++ [book: Integration of AI and OR Techniques in Constraint Programming](https://books.google.com/books?id=mYS6BQAAQBAJ&pg=PA16&lpg=PA16&dq=stable+roommate+problem+example&source=bl&ots=B2n6xgexbx&sig=IKkOtx2DWdgtDNXMt6V-1Kg6VRE&hl=en&sa=X&ved=0ahUKEwjGgc7E1LbLAhVPy2MKHS4dDEY4MhDoAQhUMAg#v=onepage&q=stable%20roommate%20problem%20example&f=false
+)
 
 ### 1.b National Resident Matching Program (NRMP), also known as the college admissions problem  
 + [Wikipedia: The problem of matching hospitals to residents is a generalization of the stable marriage problem ...](https://en.wikipedia.org/wiki/National_Resident_Matching_Program#Matching_algorithm)  
