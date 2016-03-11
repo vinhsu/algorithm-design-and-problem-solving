@@ -34,7 +34,7 @@ Roommates Problem by ROBERT W. IRVING](http://www.dcs.gla.ac.uk/~pat/jchoco/room
 **code example**  
 + [google code](https://code.google.com/archive/p/stable-roommates/source/default/source?page=1)  
 
-Extension:  
+##### Extension:  
 + [book: Integration of AI and OR Techniques in Constraint Programming](https://books.google.com/books?id=mYS6BQAAQBAJ&pg=PA16&lpg=PA16&dq=stable+roommate+problem+example&source=bl&ots=B2n6xgexbx&sig=IKkOtx2DWdgtDNXMt6V-1Kg6VRE&hl=en&sa=X&ved=0ahUKEwjGgc7E1LbLAhVPy2MKHS4dDEY4MhDoAQhUMAg#v=onepage&q=stable%20roommate%20problem%20example&f=false
 )
 
