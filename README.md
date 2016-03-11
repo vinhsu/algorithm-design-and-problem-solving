@@ -70,3 +70,11 @@ Roommates Problem by ROBERT W. IRVING](http://www.dcs.gla.ac.uk/~pat/jchoco/room
 + [Weighted interval scheduling with m-machines](http://www.fhhyc.com/stag/weighted-interval-scheduling-java/)  
 + [link 2](https://github.com/farazdagi/algorithms/blob/master/weighted-interval-scheduling.py)    
 + [link 3](https://gist.github.com/krngrvr09/b25b058d1852bb8447b6)  
+
+##### Extension: 
++ [Dynamic Programming | Set 20 (Maximum Length Chain of Pairs) - GeeksforGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-20-maximum-length-chain-of-pairs/)  
++ [Job Sequencing Problem | Set 1 (Greedy Algorithm)](http://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/)  
++ [Weighted Job Scheduling - GeeksforGeeks](http://www.geeksforgeeks.org/weighted-job-scheduling/)  
++ [Interval Tree - GeeksforGeeks](http://www.geeksforgeeks.org/interval-tree/)  
+
+
